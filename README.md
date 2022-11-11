@@ -6,8 +6,9 @@
 ### <div align="center">I'm Tatyanenko Alexey, student of SPbU Programming Technologies. 👹</div>  
   
 
-- ▶️ I'm currently learning Kotlin.  
+- ▶️ I'm currently learning C#.  
   
+- ⏸️ I studied Kotlin for one term.  
 
 - ⏸️ I studied C for one term.  
   
