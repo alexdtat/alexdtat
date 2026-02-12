@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexdtat" alt="alexdtat" /></a> </p>
 
-- 🔭 I’m currently working on [change point detection tool](https://github.com/Lesh79/PySATL-CPD-Module)
+- 🔭 I'd worked on [change point detection tool](https://github.com/Lesh79/PySATL-CPD-Module)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Natural Languages Processing**
 
