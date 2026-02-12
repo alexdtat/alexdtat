@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexey Tatyanenko</h1>
-<h3 align="center">A Programming Techologies student from SPbU</h3>
+<h3 align="center">AITH student from ITMO</h3>
 
 <div align="center">
 <img src="https://i.redd.it/s4gkmqejezj81.gif" align="center" style="width: 100%" />
@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working on [change point detection tool](https://github.com/Lesh79/PySATL-CPD-Module)
 
-- 🌱 I’m currently learning **Python and Statistics for Data Analysis**
-
-- ⚡ Fun fact **I love memes about our lab**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Natural Languages Processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
