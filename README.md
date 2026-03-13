@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexey Tatyanenko</h1>
-<h3 align="center">AITH student from ITMO</h3>
+<h3 align="center">AITH student at ITMO</h3>
 
 <div align="center">
 <img src="https://i.redd.it/s4gkmqejezj81.gif" align="center" style="width: 100%" />
